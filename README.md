@@ -1,1 +1,1 @@
-# FoodDiff: Diffusion-based perception collaborative relationships for food image generation
+# FoodDiff: A Collaborative Relationship Perception Framework for Food Image Synthesis using Diffusion Models
